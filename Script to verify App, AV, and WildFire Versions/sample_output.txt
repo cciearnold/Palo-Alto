@@ -1,0 +1,24 @@
+python show_panos_app_versions.py
+Enter username for device login:usename
+Enter password for device login:password
+
+========================================================
+Checking App,Av, and Wildfire Versions for: firewall1
+app-version: 697-4018
+app-release-date: 2017/05/10  11:25:34
+av-version: 2243-2730
+av-release-date: 2017/05/14  04:00:57
+wildfire-version: 0
+wildfire-release-date: unknown
+========================================================
+
+
+========================================================
+Checking App,Av, and Wildfire Versions for: firewall2
+app-version: 697-4018
+app-release-date: 2017/05/10  11:25:34
+av-version: 2243-2730
+av-release-date: 2017/05/14  04:00:57
+wildfire-version: 0
+wildfire-release-date: unknown
+========================================================
